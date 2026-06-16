@@ -55,7 +55,7 @@ public class ReturnService {
                 System.out.println("Số tiền phạt cần thu: " + fine + " VND");
             }
         } else {
-            System.out.println("Tuyệt vời: Sách trả đúng hạn, không bị phạt.");
+            System.out.println("Sách trả đúng hạn, không bị phạt.");
         }
     }
 }
