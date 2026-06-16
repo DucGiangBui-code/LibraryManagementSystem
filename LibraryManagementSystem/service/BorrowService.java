@@ -1,7 +1,7 @@
 package service;
 
-import model.Book;
-import model.Member;
+import models.Book;
+import models.Member;
 import repository.BookList;
 import repository.MemberList;
 import java.time.LocalDate;
